@@ -1,7 +1,7 @@
 manifestVersion: 1
 name: "@keeb/tailscale"
 version: "2026.02.27.1"
-description: "Tailscale install + tailnet machine inventory"
+description: "Tailscale install + tailnet machine inventory (https://github.com/keeb/swamp-tailscale)"
 models:
   - tailscale_node.ts
   - tailscale_net.ts
