@@ -1,9 +1,9 @@
 manifestVersion: 1
 name: "@keeb/tailscale"
-version: "2026.03.02.2"
+version: "2026.03.02.3"
 description: "Tailscale install + tailnet machine inventory (https://github.com/keeb/swamp-tailscale)"
 repository: https://github.com/keeb/swamp-tailscale
-tags:
+labels:
   - tailscale
   - networking
   - vpn
